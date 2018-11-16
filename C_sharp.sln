@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello", "hello\hello.csproj", "{C857C4C7-C549-4D30-A330-15A6BE793535}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hello", "hello\hello.csproj", "{C857C4C7-C549-4D30-A330-15A6BE793535}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student_Diary", "Student_Diary\Student_Diary.csproj", "{20DF41C4-CCCC-458B-8831-D8C8E6564862}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Student_Diary", "Student_Diary\Student_Diary.csproj", "{20DF41C4-CCCC-458B-8831-D8C8E6564862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors__1", "Constructors__1\Constructors__1.csproj", "{D3C67056-D2DF-417D-898F-18D3B6DDB439}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{20DF41C4-CCCC-458B-8831-D8C8E6564862}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20DF41C4-CCCC-458B-8831-D8C8E6564862}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20DF41C4-CCCC-458B-8831-D8C8E6564862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C67056-D2DF-417D-898F-18D3B6DDB439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C67056-D2DF-417D-898F-18D3B6DDB439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C67056-D2DF-417D-898F-18D3B6DDB439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C67056-D2DF-417D-898F-18D3B6DDB439}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
