@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hello", "hello\hello.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Student_Diary", "Student_Diary\Student_Diary.csproj", "{20DF41C4-CCCC-458B-8831-D8C8E6564862}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors__1", "Constructors__1\Constructors__1.csproj", "{D3C67056-D2DF-417D-898F-18D3B6DDB439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors__1", "Constructors__1\Constructors__1.csproj", "{D3C67056-D2DF-417D-898F-18D3B6DDB439}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_10", "Part_10\Part_10.csproj", "{5E3A4669-94AD-42F4-968A-D29B7F683A36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_10", "Part_10\Part_10.csproj", "{5E3A4669-94AD-42F4-968A-D29B7F683A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathMethods", "MathMethods\MathMethods.csproj", "{6BF27734-DA01-4764-829D-17029101094A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5E3A4669-94AD-42F4-968A-D29B7F683A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E3A4669-94AD-42F4-968A-D29B7F683A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E3A4669-94AD-42F4-968A-D29B7F683A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF27734-DA01-4764-829D-17029101094A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF27734-DA01-4764-829D-17029101094A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF27734-DA01-4764-829D-17029101094A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF27734-DA01-4764-829D-17029101094A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
